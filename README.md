@@ -9,7 +9,7 @@
 
   ## Tableau presentation, follow to this [link](https://public.tableau.com/app/profile/daisy.thomas8647/viz/ACCIDENTSINAVIATIONANALYSIS/ACCIDENTSINAVIATIONANALYSIS?publish=yes)
 
- ##  Non-technical presentation, refer to this [link](presentation.pdf)
+ ##  Non-technical presentation, refer to this [link](presentation_compressed.pdf)
  ## OBJECTIVES
 * DATA UNDERSTANDING
 * DATA CLEANING
