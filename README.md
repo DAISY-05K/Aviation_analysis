@@ -23,7 +23,8 @@ Before we venture into the Aviation industry we need to have an indebt analysis 
  * Difference in aircraft operations between the private and public enterprise
  * Air crafts with a high and low risk of investment 
  * The safety of air transport with time 
- * The future of the Aviation sector## 1. DATA UNDERSTANDING
+ * The future of the Aviation sector
+ * ## 1. DATA UNDERSTANDING
  For this research, we collected data from Kaggle on the National Transportation Safety Board that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
 
 Each (row) represents information about a certain plane accident or  incident.
